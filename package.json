@@ -1,0 +1,12 @@
+{
+  "name": "awesome-prettier",
+  "version": "1.0.3",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
+}
