@@ -10,7 +10,7 @@ To use awesome-prettier, install it via npm or yarn:
 npm install --save-dev awesome-prettier
 ```
 
-or
+`or`
 
 ```bash
 yarn add --dev awesome-prettier
